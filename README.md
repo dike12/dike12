@@ -7,9 +7,9 @@ I'm Kabelo - welcome to my GitHub profile!
 -->
 A little about me:
 
-🔭 I’m currently working on a Wordle App. It's an exciting project that's helping me dive deeper into programming and application development.
+🔭 I’m currently working on A trading bot, Atm Interface simulator. It's an exciting project that's helping me dive deeper into programming and application development.
 
-🌱 I’m currently learning Java, C# and Python. These powerful languages are broadening my programming skills and opening up new possibilities.
+🌱 I’m currently learning React, Java, C# and Python. These powerful tools and languages are broadening my programming skills and opening up new possibilities.
 
 👯 I’m looking to collaborate on innovative open-source projects, especially those leveraging my growing skills in Java, C#, Python, and app development.
 
