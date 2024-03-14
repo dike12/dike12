@@ -7,9 +7,9 @@ I'm Kabelo - welcome to my GitHub profile!
 -->
 A little about me:
 
-🔭 I’m currently working on A trading bot, Atm Interface simulator. It's an exciting project that's helping me dive deeper into programming and application development.
+🔭 I’m currently working on A trading bot, and Atm Interface simulator. It's an exciting project that's helping me dive deeper into programming and application development.
 
-🌱 I’m currently learning React, Java, C# and Python. These powerful tools and languages are broadening my programming skills and opening up new possibilities.
+🌱 I’m currently learning React, Java, SQL and Python. These powerful tools and languages are broadening my programming skills and opening up new possibilities.
 
 👯 I’m looking to collaborate on innovative open-source projects, especially those leveraging my growing skills in Java, C#, Python, and app development.
 
@@ -22,5 +22,5 @@ A little about me:
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: When I'm not coding, I enjoy playing video games and immersing myself in the world of technology.
+⚡ Fun fact: When I'm not coding, I enjoy playing video games, Stock Trading and immersing myself in the world of technology.
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have a chat about technology!
