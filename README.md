@@ -7,13 +7,11 @@ I'm Kabelo - welcome to my GitHub profile!
 -->
 A little about me:
 
-🔭 I’m currently working on A trading bot, and Atm Interface simulator. It's an exciting project that's helping me dive deeper into programming and application development.
+🔭 I’m currently working on developing a financial analysis tool inspired by Koyfin. This project is a fantastic opportunity for me to enhance my skills in programming and application development, while also exploring advanced financial data analysis and visualization techniques.
 
 🌱 I’m currently learning React, Java, SQL and Python. These powerful tools and languages are broadening my programming skills and opening up new possibilities.
 
-👯 I’m looking to collaborate on innovative open-source projects, especially those leveraging my growing skills in Java, C#, Python, and app development.
-
-🤔 I’m looking for help with advanced concepts in Java and Python, and best practices in app development.
+👯 I’m looking to collaborate on innovative open-source projects, especially those leveraging my growing skills in Java, C, Python, and app development.
 
 💬 Ask me about my various projects, my journey in learning Java, C# and Python, or anything tech-related!
 
