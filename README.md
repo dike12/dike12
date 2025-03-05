@@ -1,24 +1,27 @@
-#**Hi there 👋**
+Hi there 👋
+I'm Kabelo – welcome to my GitHub profile!
 
-I'm Kabelo - welcome to my GitHub profile!
-
-<!--
-**dike12/dike12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 A little about me:
+🔍 Passionate about low-level programming and cybersecurity.
+I'm diving deep into system-level programming, reverse engineering, and exploit development. My current focus is on mastering C, assembly, and understanding how software works from the ground up.
 
-🔭 I’m currently working on developing a financial analysis tool inspired by Koyfin. This project is a fantastic opportunity for me to enhance my skills in programming and application development, while also exploring advanced financial data analysis and visualization techniques.
+💻 Learning & Exploration:
+I'm in the process of exploring and building a strong foundation in:
 
-🌱 I’m currently learning React, Java, SQL and Python. These powerful tools and languages are broadening my programming skills and opening up new possibilities.
+Languages & Tools: C, assembly, Bash, and Python.
+Concepts: Operating system internals, system calls, memory management, and common security vulnerabilities like buffer overflows and return-oriented programming.
+Practice: Engaging with challenges from OverTheWire, crackmes.one, and other reverse engineering exercises.
+🌱 Current Focus:
+While I haven't built any full-fledged projects yet, I'm actively learning and planning to create educational demos—like vulnerable programs and simple exploit examples—to document my journey and share insights with the community.
 
-👯 I’m looking to collaborate on innovative open-source projects, especially those leveraging my growing skills in Java, C, Python, and app development.
+🤝 Collaboration & Community:
+I'm eager to connect with others in cybersecurity and low-level programming. Whether you're willing to share advice, resources, or just chat about reverse engineering and security, feel free to reach out!
 
-💬 Ask me about my various projects, my journey in learning Java, C# and Python, or anything tech-related!
-
-📫 How to reach me: Feel free to drop me a message [LinkedIn](www.linkedin.com/in/kabelo-dike)
-.
+📫 Reach Me:
+Drop me a message on LinkedIn or open an issue if you'd like to connect.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: When I'm not coding, I enjoy playing video games, Stock Trading and immersing myself in the world of technology.
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have a chat about technology!
+⚡ Fun fact: When I'm not immersed in code or security challenges, I enjoy gaming, stock trading, and exploring the latest tech trends.
+
+Thanks for stopping by—let's keep learning and stay curious!
