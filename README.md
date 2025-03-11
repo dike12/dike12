@@ -24,6 +24,6 @@ Drop me a message on [LinkedIn](https://www.linkedin.com/in/kabelo-dike) or open
 😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:**  
-When I'm not immersed in code or security challenges, I enjoy gaming, stock trading, and exploring the latest tech trends.
+When I'm not immersed in code or security challenges, I enjoy playing soccer gaming, stock trading, and exploring the latest tech trends.
 
 Thanks for stopping by—let's keep learning and stay curious!
