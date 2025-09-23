@@ -1,29 +1,37 @@
-# Hi there 👋
+Hi there 👋
 
 I'm Kabelo – welcome to my GitHub profile!
 
-### A little about me:
-🔍 **Passionate about low-level programming and cybersecurity.**  
-I'm diving deep into system-level programming, reverse engineering, and exploit development. My current focus is on mastering C, assembly, and understanding how software works from the ground up.
+About Me
 
-💻 **Learning & Exploration:**  
-I'm in the process of building a strong foundation in:
-- **Languages & Tools:** C, assembly, Bash, and Python.
-- **Concepts:** Operating system internals, system calls, memory management, and common security vulnerabilities like buffer overflows and return-oriented programming.
-- **Practice:** Engaging with challenges from OverTheWire, crackmes.one, and other reverse engineering exercises.
+🔍 Low-level programming & cybersecurity enthusiast
+I’m focused on system-level development, reverse engineering, and security. My work revolves around understanding computers from the ground up—how they execute code, manage memory, and expose vulnerabilities.
 
-🌱 **Current Focus:**  
-While I haven't built any full-fledged projects yet, I'm actively learning and planning to create educational demos—like vulnerable programs and simple exploit examples—to document my journey and share insights with the community.
+💻 What I’m Building & Learning
 
-🤝 **Collaboration & Community:**  
-I'm eager to connect with others in cybersecurity and low-level programming. Whether you're willing to share advice, resources, or just chat about reverse engineering and security, feel free to reach out!
+Projects:
 
-📫 **Reach Me:**  
-Drop me a message on [LinkedIn](https://www.linkedin.com/in/kabelo-dike) or open an issue if you'd like to connect.
+A custom Linux shell (finished ✅)
 
-😄 **Pronouns:** He/Him
+A TCP chat app in C (in progress)
 
-⚡ **Fun fact:**  
-When I'm not immersed in code or security challenges, I enjoy playing soccer gaming, stock trading, and exploring the latest tech trends.
+Upcoming: SQLite clone, toy operating system, modular browser
 
-Thanks for stopping by—let's keep learning and stay curious!
+Languages & Tools: C, assembly, Bash, Python
+
+Concepts: operating system internals, syscalls, memory management, exploitation (buffer overflows, ROP)
+
+🌱 Current Focus
+Building a strong foundation in low-level programming while documenting my journey through demos, writeups, and exploratory projects. My end goal is to develop useful systems tools, contribute to open-source, and push deeper into cybersecurity.
+
+🤝 Collaboration & Community
+I love connecting with others interested in systems, security, and computer internals. If you’re into reverse engineering, exploit dev, or just geeking out about low-level code, let’s talk!
+
+📫 Reach Me:
+LinkedIn
+ or open an issue/discussion here.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact:
+Outside of coding, I’m into soccer, gaming, and comedy shows
