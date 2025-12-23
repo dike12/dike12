@@ -10,9 +10,9 @@ I’m focused on system-level development, reverse engineering, and security. My
 - **Projects:**  
   - ✅ Custom Linux shell (finished)  
   - 🔧 TCP chat app in C (in progress)  
-  - 📚 Upcoming: SQLite clone, toy operating system, modular browser  
-- **Languages & Tools:** C, Assembly, Bash, Python  
-- **Concepts:** Operating system internals, syscalls, memory management, exploitation (buffer overflows, ROP)  
+  - 📚 Upcoming: Password Manager, Malware file scanner
+- **Languages & Tools:** C, C++, Assembly, Bash, Python  
+- **Concepts:** Operating system internals, memory management, exploitation (buffer overflows, ROP)  
 
 ### 🌱 Current Focus  
 Building a strong foundation in low-level programming while documenting my journey through demos, writeups, and exploratory projects. My end goal is to develop useful systems tools, contribute to open-source, and push deeper into cybersecurity.  
@@ -28,4 +28,4 @@ I love connecting with others interested in systems, security, and computer inte
 He/Him  
 
 ### ⚡ Fun fact  
-Outside of coding, I’m into soccer gaming, and comedy shows
+Outside of coding, I’m into soccer, gaming, and comedy shows
