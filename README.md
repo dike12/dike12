@@ -11,7 +11,7 @@ I’m focused on system-level development, reverse engineering, and security. My
   - ✅ Custom Linux shell (finished)  
   - 🔧 TCP chat app in C (in progress)  
   - 📚 Upcoming: Password Manager, Malware file scanner
-- **Languages & Tools:** C, C++, Assembly, Bash, Python  
+- **Languages & Tools:** C, C++, Assembly, Bash, Python, Java
 - **Concepts:** Operating system internals, memory management, exploitation (buffer overflows, ROP)  
 
 ### 🌱 Current Focus  
